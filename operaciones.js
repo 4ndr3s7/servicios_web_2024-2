@@ -1,3 +1,4 @@
+/*
 console.log("operaciones...")
 
 let counter = 1000;
@@ -32,4 +33,16 @@ counter = counter **3; // 0
 console.log(counter)
 counter **= 2; // 0
 console.log(counter)
+
+*/
+
+
+/////////
+//Operadores de comparacion 
+
+let counter= "100"
+let age = 100 
+
+let resultado = counter == age 
+
 
