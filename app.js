@@ -131,3 +131,4 @@ const fullName = firstName + " " + lastName;
 console.log(fullName);
 const fullNameTwo = `este es el nombre completo: ${firstName} ${lastName}`;
 console.log(fullNameTwo);
+

@@ -24,4 +24,3 @@ console.log(fullname.repeat (5)) /// Sirve para repetir una cadena o palabra x v
 console.log("                Jaime Andres Ballesteros      Rios      ".trim() ) ///  elimina los espacios que tenga a cada lado
 
 console.log(fullname.split (' ')) /// 
-

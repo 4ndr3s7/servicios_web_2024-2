@@ -9,8 +9,8 @@
     "operations": "node operations.js",
     "app": "node app.js",
     "comparadores": "node operadores_comparadores.js",
-    "operadores_logicos": "node operadores_logicos.js"
-
+    "String metodos": "node String_metodos.js",
+    "operadores_logicos2": "node operadores_logicos2.js"
     
   },
   "keywords": [],
