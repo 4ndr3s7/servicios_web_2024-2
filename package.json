@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "operaciones": "node operaciones.js",
-    "comparadores": "node operadores_comparadores.js"
+    "operations": "node operations.js",
+    "app": "node app.js",
+    "comparadores": "node operadores_comparadores.js",
+    "operadores_logicos": "node operadores_logicos.js"
+
     
   },
   "keywords": [],
