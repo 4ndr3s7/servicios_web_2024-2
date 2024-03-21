@@ -33,3 +33,4 @@ if (processEnv[2] == "-sum") {
   const num2 = +processEnv[4];
   sum(num1, num2);
 }
+
